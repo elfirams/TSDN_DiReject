@@ -1,0 +1,5 @@
+TSDN_DiReject/
+│
+├── app.py                 # Your main Streamlit app file
+├── .streamlit/            # Configuration folder for Streamlit settings
+│   └── config.toml        # Configuration file where you set Light Mode
